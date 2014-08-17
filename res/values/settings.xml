@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="setting_key_persistent_notification">8ab567d2170aa3617fa61e6e747fc53e</string>
+    <string name="setting_key_message_subject">bbd585d770d45af518d79da08907bedc</string>
+    <string name="setting_key_world_readable">b582665c66aab59ddf5b8a2ba7558431</string>
+
+</resources>
